@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-31T13:24:34.808Z</updated>
+  <updated>2020-01-31T13:37:08.633Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/01/31/Github-Tower-%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/"/>
     <id>http://yoursite.com/2020/01/31/Github-Tower-%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/</id>
     <published>2020-01-31T13:23:33.000Z</published>
-    <updated>2020-01-31T13:24:34.808Z</updated>
+    <updated>2020-01-31T13:37:08.633Z</updated>
     
-    <content type="html"><![CDATA[<p>之前都弄好了几次，但是每次都忘记怎么做，所以还是要记录一下</p><ol><li><p>从GitHub 到本地<br> 直接点击tower左下角“+”号，然后将URL复制，使用自己的账户即可实现添加库</p></li><li><p>从本地到 GitHub<br> 首先在GitHub 建立库”test”，然后将改库从GitHub下载到本地文件夹”<del>/test”<br> 再将已有的项目文件放到”</del>/test”文件夹中，然后push，就行了</p></li></ol>]]></content>
+    <content type="html"><![CDATA[<p>之前都弄好了几次，但是每次都忘记怎么做，所以还是要记录一下</p><ol><li><p>从GitHub 到本地<br> 直接点击tower左下角“+”号，然后将URL复制，使用自己的账户即可实现添加库</p></li><li><p>从本地到 GitHub<br> 首先在GitHub 建立库”test”，然后将该库从GitHub下载到本地文件夹<code>&quot;~/test&quot;</code><br> 再将已有的项目文件放到<code>&quot;~/test&quot;</code>文件夹中，然后push，就行了</p></li></ol>]]></content>
     
     <summary type="html">
     
